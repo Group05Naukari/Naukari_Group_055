@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Naukari_Group_05</string>
+    <string name="app_name">Nokari.com</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="manage_my_nextwork">Manage My Nextwork</string>
+    <string name="Candidatelist">Candidate list</string>
+    <string name="profile">Profile</string>
+    <string name="MyFeeds">My Feeds</string>
+    <string name="CreatNewConnetction">Creat New Connetction</string>
+    <string name="Connect">Connect</string>
+    <string name="demo_app">demo app</string>
+    <string name="software_engineer_open_to_opportunities">Software Engineer | Open to Opportunities</string>
+    <string name="about_us">About Us</string>
+    <string name="education">Education</string>
+    <string name="bca_mca">BCA | MCA</string>
+    <string name="seaech_cadidate">Seaech Cadidate</string>
+    <string name="john_doe">John Doe</string>
+    <string name="add_some_candidates_to_view_their_feeds">Add some candidates to view their feeds</string>
+    <string name="like">Like</string>
 </resources>

@@ -46,9 +46,9 @@ class IntroActivity : AppCompatActivity() {
         }else{
             Handler().postDelayed({
                 // Start your main activity after the splash timeout
-//                startActivity(Intent(this@IntroActivity, LoginActivity::class.java))
-//                // Close this activity
-//                finish()
+               startActivity(Intent(this@IntroActivity, LoginActivity::class.java))
+                // Close this activity
+                finish()
             }, SPLASH_TIMEOUT)
             Toast.makeText(
                 this@IntroActivity,
@@ -84,9 +84,9 @@ class IntroActivity : AppCompatActivity() {
                     } else {
                         Handler().postDelayed({
                             // Start your main activity after the splash timeout
-//                            startActivity(Intent(this@IntroActivity, LoginActivity::class.java))
-//                            // Close this activity
-//                            finish()
+                           startActivity(Intent(this@IntroActivity, LoginActivity::class.java))
+                            // Close this activity
+                            finish()
                         }, SPLASH_TIMEOUT)
                         Toast.makeText(
                             this@IntroActivity,
@@ -105,9 +105,9 @@ class IntroActivity : AppCompatActivity() {
         } else {
             Handler().postDelayed({
                 // Start your main activity after the splash timeout
-//                startActivity(Intent(this@IntroActivity, LoginActivity::class.java))
-//                // Close this activity
-//                finish()
+                startActivity(Intent(this@IntroActivity, LoginActivity::class.java))
+             // Close this activity
+                finish()
             }, SPLASH_TIMEOUT)
             Toast.makeText(
                 this@IntroActivity,
